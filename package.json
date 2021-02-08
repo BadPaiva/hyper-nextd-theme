@@ -1,0 +1,19 @@
+{
+  "name": "hyper-nextd-theme",
+  "version": "0.0.1",
+  "main": "index.js",
+  "homepage": "https://inextd.com",
+  "description": "A beautifull theme for hyper terminal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/badpaiva/hyper-nextd-theme.git"
+  },
+  "keywords": [
+    "hyperterm",
+    "hyper",
+    "hyper.app",
+    "hyper theme"
+  ],
+  "author": "Eric Paiva <badpaiva@icloud.com>",
+  "license": "MIT"
+}
